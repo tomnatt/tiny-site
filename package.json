@@ -8,5 +8,10 @@
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/do-less/tiny-site"
+  "homepage": "https://github.com/do-less/tiny-site",
+  "devDependencies": {
+    "gulp": "^3.8.0",
+    "gulp-uglify": "^0.3.0",
+    "gulp-concat": "^2.2.0"
+  }
 }
