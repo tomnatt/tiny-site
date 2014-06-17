@@ -1,0 +1,12 @@
+{
+  "name": "tiny-app",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/do-less/tiny-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/do-less/tiny-site"
+}
